@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aulas UGB</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9184762309589310~8876571337</string>
+    <string name="edi1_nivel1">La puedes encontrar en el primer nivel del edificio Monseñor Oscar Arnulfo Romero</string>
+    <string name="edi1_nivel2">La puedes encontrar en el segundo nivel del edificio Monseñor Oscar Arnulfo Romero</string>
+    <string name="edi1_nivel3">La puedes encontrar en el tercer nivel del edificio Monseñor Oscar Arnulfo Romero</string>
+    <string name="edi2_nivel1">La puedes encontrar en el primer nivel del edificio Dr. David Joaquín Guzmán</string>
+    <string name="edi2_nivel2">La puedes encontrar en el segundo nivel del edificio Dr. David Joaquín Guzmán</string>
+    <string name="edi3_nivel1">La puedes encontrar en el primer nivel del edificio Dr. Juan José Cañas</string>
+    <string name="edi3_nivel2">La puedes encontrar en el segundo nivel del edificio Dr. Juan José Cañas</string>
+    <string name="edi3_nivel3">La puedes encontrar en el tercer nivel del edificio Dr. Juan José Cañas</string>
+
+
+</resources>
