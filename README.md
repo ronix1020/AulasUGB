@@ -1,0 +1,3 @@
+# ListaAulasUGB
+Este es una alpha de la aplicacion UGB
+Un gran paso...
